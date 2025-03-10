@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey, my name's Collin Blake. I'm a senior in BMS:MVS at UNH, and I'm undertaking a senior project involving genetic analysis of eukaryotic pathogens in CIRD-presenting canines. If you need to reach out to me, my unh email is: cb1476@unh.edu. 
 
 <!--
 **cb1476/cb1476** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
